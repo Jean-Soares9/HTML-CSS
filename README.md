@@ -1,2 +1,2 @@
-# HTML-CSS
+# html - css
 Repositório das Aulas de HTML e CSS
